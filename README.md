@@ -1,5 +1,5 @@
 # _Breakout Game using Pygame Module in python_
-##_ Modules Used_
+## _Modules Used_
 - [x] pygame
 - [x] math
 - [x] time
