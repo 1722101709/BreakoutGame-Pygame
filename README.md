@@ -1,4 +1,4 @@
-# BreakoutGame-Pygame
+# Breakout Game using Pygame Module in python
 ## Modules Used
 - [x] pygame
 - [x] math
