@@ -6,5 +6,5 @@
 - [x] random
 
 ## How to Run
-- **Install Pygame Module :** "pip install pygame"
+- <span style="color: green;">Install Pygame Module :</span> "pip install pygame"
 - **Run main.py file :** "python main.py"
