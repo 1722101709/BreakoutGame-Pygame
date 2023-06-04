@@ -5,6 +5,6 @@
 - [x] time
 - [x] random
 
-## How to Run
+## _How to Run_
 - _**Install Pygame Module :**_ "pip install pygame"
 - _**Run main.py file :**_ "python main.py"
